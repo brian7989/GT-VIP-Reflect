@@ -1,0 +1,100 @@
+.logo {
+    position: relative;
+    align-self: flex-start;
+    float:left;
+    margin-left:20px;
+}
+
+.topnav {
+    position: static;
+    overflow: hidden;
+    background-color: dodgerblue;
+    list-style: none;
+    width: 100%;
+    padding-left:10px;
+    z-index: 2000;
+    margin-bottom: 0;
+
+}
+
+.topnav a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color:white;
+    padding: 17px 16px;
+
+}
+
+.topnav a:hover, .how-to-dropdown:hover .how-to-dropbtn{
+    background-color: #91c9ff;
+    color: black;
+    height:inherit;
+}
+.navbar-external-item {
+    float: right;
+}
+
+
+#knowledge-base-link {
+    float:right;
+    margin:0;
+    padding:0;
+    padding-left: 5px;
+
+    height: 80%;
+
+}
+#knowledge-base-button {
+    padding: 3px;
+    font-size: 10px;
+}
+
+
+
+
+.how-to-dropdown {
+    float: left;
+    overflow: hidden;
+    z-index: 2000;
+}
+
+.how-to-dropdown .how-to-dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 17px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+
+
+.how-to-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.how-to-dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.how-to-dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.how-to-dropdown:hover .how-to-dropdown-content {
+    display: block;
+}

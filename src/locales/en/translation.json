@@ -1,0 +1,13 @@
+{
+
+  "My Account": "My Account",
+
+  "UserPage.MyAccount": "My Account",
+  "UserPage.Teams": "Teams in which I am a member",
+  "UserPage.Language": "The language with which I want to communicate",
+  "UserPage.GoThere": "Go There",
+  "UserPage.Instructions.part1": " On Reflect, all work is done in a team. If you want to work just for yourself on something, you need to create a project and a team in which you are the only member. You can add other people at any time.",
+  "UserPage.Instructions.part1.1": "To navigate through a team project, use the \"Work plan\" on the Dashboard. Later in the process, the Dashboard will provide buttons that allow you to get quickly to particular pages.",
+  "UserPage.Instructions.part2": "You need to refresh your browser after you log in.",
+  "UserPage.Instructions.part3": "If something doesn't work as expected, please use a different browser."
+}

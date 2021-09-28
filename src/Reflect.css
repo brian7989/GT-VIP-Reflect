@@ -1,0 +1,61 @@
+.react-bootstrap-table-vert-header-class {
+
+    /*background-color: blue;*/
+
+
+    /*white-space: normal;*/
+
+    /*height: 100px;*/
+
+
+    /*white-space: normal;*/
+
+    /*overflow-wrap: break-word;*/
+
+    /*height: auto;*/
+    /*transform: rotate(90deg);*/
+    /*transform-origin: left top 0;*/
+
+}
+
+.react-bootstrap-table-header-container-class {
+
+    /*background-color: red;*/
+
+    /*height: 100px;*/
+
+
+    /*width: auto;*/
+
+    /*white-space: normal;*/
+
+
+
+    /*height: auto;*/
+    /*transform: rotate(90deg);*/
+    /*transform-origin: left top 0;*/
+
+}
+
+
+.react-bootstrap-table-vert-string-class{
+
+    /*background-color: pink;*/
+
+    white-space: normal;
+    font-size: 100%;
+    overflow-wrap: break-word;
+
+
+    /*word-break: break-all;*/
+
+    /*transform: rotate(90deg);*/
+    /*transform-origin: left top 0;*/
+}
+
+
+.scrollablePanel {
+    width: 810px;
+
+}
+

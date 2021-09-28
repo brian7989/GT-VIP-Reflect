@@ -1,0 +1,28 @@
+#instructionsmall {
+    border: 1px solid black;
+    margin: 0;
+    width: 300px;
+    max-width: 500px;
+}
+
+#instructionlarge {
+    border: 1px solid black;
+    margin: auto;
+    width: 600px;
+    max-width: 600px;
+}
+
+.button {
+    width: 150px;
+    align-items: right;
+}
+
+.radioLeft
+{
+    text-align:left;
+}
+
+.centercontainer
+{
+    align-content: center;
+}

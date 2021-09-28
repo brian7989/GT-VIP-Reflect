@@ -1,0 +1,34 @@
+#Problem{
+    border:3px solid #e2a369 ;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 3%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    position: absolute;
+    top:400px;
+    width:20%;
+    left: 5%;
+
+
+}
+
+#statement {
+    text-align: left;
+}
+
+.problemFormulationButton {
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+
+
+}
+
+.problemFormulationButton textarea, select, a{
+    color: #333;
+}

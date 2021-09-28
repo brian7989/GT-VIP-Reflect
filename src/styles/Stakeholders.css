@@ -1,0 +1,42 @@
+#TeamStakeholders {
+     border: 3px solid red;
+     text-align: center;
+     display: flex;
+     flex-direction: column;
+     padding: 5px;
+ }
+#MyStakeholders {
+    border: 3px solid rebeccapurple;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.Header {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.button3 {
+     width: 30%;
+     border-radius: 6px;
+     margin: 4px 2px;
+     box-shadow: 1px 1px 1px lightgrey;
+     padding: 5px;
+
+ }
+
+
+
+.button2 {
+    width: 45%;
+    border-radius: 6px;
+    margin: 4px 2px;
+    box-shadow: 1px 1px 1px lightgrey;
+    padding: 5px;
+
+}
+
+

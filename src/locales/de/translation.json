@@ -1,0 +1,12 @@
+{
+  "My Account": "Mein Zeug",
+
+  "UserPage.MyAccount": "Mein Zeug",
+  "UserPage.Teams": "Teams denen ich angehöre",
+  "UserPage.Language": "Die Sprache, die ich hier nutzen will",
+  "UserPage.GoThere": "Öffne",
+  "UserPage.Instructions.part1": "In Reflect! wird alles in einem \"Team\" getan. Falls Du nur für dich selbst was tun will, mußt Du ein \"Project\" und ein \"Team\" einrichten in dem Du dann das einzige Mitglied bist. Später kannst Du dann andere Leute dazu einladen.",
+  "UserPage.Instructions.part1.1":"Zur Navigation durch ein Team Projekt, benutze bitten den \"Arbeitsplan\" auf dem Dashboard. Später werden dann auf dem Dashboard bestimmte Buttons erscheinen, die dir erlauben schnell auf andere Seiten zu gelangen.",
+  "UserPage.Instructions.part2": "Falls kein Team unten erscheint oder der Button \"Öffne\" nicht funktioniert, versuche bitte die Webseite neu zu laden und versuchs noch mal.",
+  "UserPage.Instructions.part3": "Falls etwas nicht funktioniert, benutze bitte einen anderen Browser."
+}

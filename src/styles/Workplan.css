@@ -1,0 +1,102 @@
+#workplanCalendar{
+    border-radius: 10px;
+    border: 7px solid dodgerblue;
+    background: white;
+    padding-bottom: 20px;
+    margin:auto;
+    width: 40%;
+    position: absolute;
+    top:350px;
+    left:30%;
+
+}
+
+
+
+
+
+.popover a {
+    color: royalblue;
+    font-weight: bold;
+}
+
+
+.arrowImage{
+    background: white;
+}
+
+.workplanPanel{
+    margin-bottom: -8px;
+
+}
+
+.workplanPanel .panel-heading {
+    padding: 0px;
+    border-radius: 5px;
+    display: table;
+    width: 100%;
+    text-align: left;
+}
+
+
+
+.workplanPanel .panel-heading > a div{
+    height: 100%;
+}
+
+
+
+.workplanPanel .panel-title  {
+    display: table-cell;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+
+.workplanPanel .panel-body  {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: block;
+    background: white;
+}
+
+.modulePanel{
+    margin-bottom: 0px;
+}
+
+.modulePanel .panel-heading {
+    padding: 0px;
+    border-radius: 5px;
+    display: table;
+    width: 100%;
+    text-align: left;
+
+
+}
+
+
+
+.modulePanel .panel-heading > a div{
+    height: 100%;
+}
+
+
+
+.modulePanel .panel-title  {
+    display: table-cell;
+    width: 100%;
+    border-radius: 5px;
+    background-image: none;
+}
+
+
+.modulePanel .panel-body  {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: block;
+    background: white;
+}
+
